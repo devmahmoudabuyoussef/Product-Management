@@ -77,7 +77,7 @@
     }
   ],
   "id": "/?source=pwa",
-  "start_url": "",
+  "start_url": "https://product-management-roan.vercel.app/",
   "background_color": "#3367D6",
   "display": "standalone",
   "scope": "/",
